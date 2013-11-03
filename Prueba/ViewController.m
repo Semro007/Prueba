@@ -22,6 +22,7 @@
     // A ver si ahora lo pillo.
     // Por tercera vez ????
     // Cuarto intento
+    // Y otro sin sincronizar previamente.
 }
 
 - (void)didReceiveMemoryWarning
