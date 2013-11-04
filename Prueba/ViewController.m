@@ -23,6 +23,10 @@
     // Por tercera vez ????
     // Cuarto intento
     // Y otro sin sincronizar previamente.
+    
+    NSNumber *ppp = [[NSNumber alloc] initWithInt:32];
+    NSLog(@"%f", ppp.floatValue);
+    
 }
 
 - (void)didReceiveMemoryWarning
@@ -30,5 +34,10 @@
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
 }
+
+#pragma mark - Hola que tal
+
+#pragma mark - Hola que tal 2
+
 
 @end
